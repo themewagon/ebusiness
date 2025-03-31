@@ -1,6 +1,6 @@
-Thanks for downloading this theme!
+Thanks for downloading this template!
 
-Theme Name: eBusiness
-Theme URL: https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/
+Template Name: eBusiness
+Template URL: https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/
 Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+License: https://bootstrapmade.com/license/
